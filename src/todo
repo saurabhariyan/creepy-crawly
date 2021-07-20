@@ -1,0 +1,11 @@
+- node cli (30mins)
+- node cli with workers (10 mins)
+- logic for parsing all the urls (1 hour)
+    - take input
+    - go to amazon.com
+    - print html
+    - go to next page from the html
+- ensuring same url is not parsed twice. 
+- colorised output
+- giving more options 
+- add gitignore. 
